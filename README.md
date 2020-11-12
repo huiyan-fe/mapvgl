@@ -4,4 +4,4 @@
 
 https://mapv.baidu.com/gl/docs/index.html
 
-<img src = "https://bj.bcebos.com/v1/mapopen/cms/images/mapv.gif"></img>
+<img width="960" height="528" src="https://mapopen.cdn.bcebos.com/cms/images/mapv.gif"></img>
