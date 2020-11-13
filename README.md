@@ -4,4 +4,4 @@
 
 https://mapv.baidu.com/gl/docs/index.html
 
-<img src="https://raw.githubusercontent.com/huiyan-fe/mapvgl/master/images/mapv.gif" />
+<img src="https://raw.githubusercontent.com/huiyan-fe/mapvgl/main/images/mapv.gif" />
